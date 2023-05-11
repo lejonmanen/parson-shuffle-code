@@ -1,0 +1,13 @@
+{
+  "name": "parson-shuffle-code",
+  "version": "1.0.0",
+  "description": "Command line utility to shuffle code lines. Use this to create exercises for learning programming.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node parson.js parson.js"
+  },
+  "keywords": [],
+  "author": "David Andersson",
+  "license": "ISC"
+}
